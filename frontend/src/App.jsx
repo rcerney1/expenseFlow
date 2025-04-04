@@ -14,6 +14,8 @@ function App() {
         <Route path="/subscriptions" element={<Subscriptions />} />
       </Routes>
       <h1 className="text-2xl text-red-500">App Loaded</h1>
+      <h1 className="text-red-500 text-3xl">Tailwind is working</h1>
+
 
     </div>
   );
